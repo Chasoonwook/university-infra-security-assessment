@@ -4,7 +4,7 @@
 
 > 모든 공격은 교육 과정의 격리된 가상 실습 환경에서, 승인된 범위(RoE) 안에서만 수행했습니다. 공격 도구·페이로드 코드는 공개하지 않습니다.
 
-프로젝트 결과보고서 주소 https://docs.google.com/document/d/1by0t-3ZAO7lP5uoPrewn-vIXnjpeGiVCPoxAXCsHy0Y/edit?tab=t.0 
+📄 [프로젝트 전체 결과보고서 (Google Docs)](https://docs.google.com/document/d/1by0t-3ZAO7lP5uoPrewn-vIXnjpeGiVCPoxAXCsHy0Y/edit?tab=t.0)
 
 | 항목 | 내용 |
 |---|---|
